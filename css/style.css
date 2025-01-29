@@ -1,3 +1,15 @@
+/* 
+  Roboto - font
+  font-weight: 400, 500
+  Normal-regular, mediam
+
+  Roboto Condensed
+  font-weight: 700
+*/
+* {
+  font-family: "Roboto", sans-serif, serif;
+}
+
 .site-header {
   background-color: #fff;
 }
